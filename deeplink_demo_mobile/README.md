@@ -20,4 +20,5 @@ how it work
 adb shell am start -W -a android.intent.action.VIEW -d "http://10.0.2.2:3000/red" -n com.example.deeplink_demo_mobile/.MainActivity
 
 http://10.0.2.2:3000/red your domain
+
 com.example.deeplink_demo_mobile your package name
